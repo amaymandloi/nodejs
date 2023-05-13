@@ -1,0 +1,17 @@
+{
+  "name": "lambdafn",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "csv": "^6.2.5",
+    "aws-sdk": "^2.153.0",
+    "csv-parse": "^2.0.0"
+  }
+}

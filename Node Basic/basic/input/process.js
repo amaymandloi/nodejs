@@ -1,0 +1,8 @@
+console.log(process.pid)
+console.log(process.argv)
+console.log(process.env)
+console.log(process.cwd)
+console.log(process.config)
+console.log(process.features)
+console.log(process.version)
+console.log(process.platform)
